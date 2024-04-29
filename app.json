@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"FLASH-MD",
+      "value":"Mr-Hasnain",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/6bda75b9460eae784ea90.mp4",
       "required":false
        
      },
@@ -72,7 +72,7 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "Mr hasnain",
     "required": false,
     "value": "France King"
   },
@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254757835036"
+    "value": "923101699985"
   },
     "WARN_COUNT":
   {
